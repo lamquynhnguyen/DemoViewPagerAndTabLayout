@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">DemoViewPagerAndTabLayout</string>
+    <string name="title_konnichiwa">Konnichiwa</string>
+    <string name="title_hello">Hello</string>
+    <string name="title_xinchao">Xin chao</string>
+    <string name="title_nihao">Nihao</string>
+    <string name="title_hola">Hola</string>
 </resources>
